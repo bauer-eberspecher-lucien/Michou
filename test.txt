@@ -1,1 +1,23 @@
-test et ce que cette merde fonctionne ?
+On a lié un repository que j'ai crée "Michou" a un dossier sur mon bureau pour que qd je fais du Vs code ça s'enregistre direct dans github.
+Pour cela on utilise Git GUI : éapes
+
+1. Ouvrez Git GUI
+
+Démarrez → Git GUI
+
+2. Ouvrez votre repository
+
+File → Open → Sélectionnez le dossier Michou
+
+3. Vous verrez votre fichier txt dans "Unstaged Changes"
+4. Cliquez sur votre fichier pour le sélectionner
+5. Cliquez "Stage Changed" (ou Ctrl+T)
+6. Écrivez un message de commit (ex: "Ajout fichier test")
+7. Cliquez "Commit"
+8. Cliquez "Push" dans la barre d'outils
+
+
+Puis on a cloné le repository de Kevin michou sur l'ordi pour avoir accès a tout ses fichiers : il faudra
+Faites vos exercices dans le dossier advanced_programming_python (cloné depuis GitHub de Kevin Michou)
+Enregistrer les fichiers terminés dans votre dossier Michou
+Pushez depuis Michou vers votre repository personnel
