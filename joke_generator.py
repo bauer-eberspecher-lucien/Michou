@@ -20,6 +20,7 @@ jokes = [
 def print_random_joke():
     """Print a random joke from the collection."""
     joke = random.choice(jokes)
+    
     print(f"😂 {joke}")
 
 if __name__ == "__main__":
